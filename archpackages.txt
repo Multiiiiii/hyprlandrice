@@ -1,0 +1,17 @@
+autojump
+btop
+bat
+cava
+clipman
+cowsay
+hypridle
+hyprland
+hyprlock
+hyprpaper
+hyprpicker
+hyprpolkitagent
+hyprsunset
+kitty
+rofi
+rofi-calc
+yt-dlp

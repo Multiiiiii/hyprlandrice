@@ -1,0 +1,140 @@
+{
+  "bar.workspaces.workspaceIconMap": {
+    "1": "",
+    "2": "",
+    "3": "󰙯",
+    "4": "󰓇",
+    "5": "",
+    "6": "",
+    "7": "",
+    "8": "",
+    "9": "",
+    "10": "󰓓",
+    "11": "一",
+    "12": "二",
+    "13": "三",
+    "14": "四",
+    "15": "五",
+    "16": "六",
+    "17": "七",
+    "18": "八",
+    "19": "九",
+    "20": "十",
+    "21": "I",
+    "22": "II",
+    "23": "III",
+    "24": "IV",
+    "25": "V",
+    "26": "VI",
+    "27": "VII",
+    "28": "VIII",
+    "29": "IX",
+    "30": "X"
+  },
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "dashboard",
+        "notifications",
+        "bluetooth",
+        "hyprsunset",
+        "systray",
+        "workspaces",
+        "media"
+      ],
+      "middle": [
+        "windowtitle"
+      ],
+      "right": [
+        "netstat",
+        "cpu",
+        "cputemp",
+        "ram",
+        "volume",
+        "clock"
+      ]
+    },
+    "1": {
+      "left": [
+        "power",
+        "workspaces",
+        "cava"
+      ],
+      "middle": [
+        "dashboard"
+      ],
+      "right": [
+        "netstat",
+        "cpu",
+        "cputemp",
+        "ram",
+        "volume",
+        "clock"
+      ]
+    },
+    "2": {
+      "left": [
+        "workspaces",
+        "volume"
+      ],
+      "middle": [
+        "clock"
+      ],
+      "right": [
+        "updates"
+      ]
+    },
+    "3": {
+      "left": [],
+      "middle": [],
+      "right": []
+    }
+  },
+  "bar.workspaces.ignored": "-98",
+  "bar.customModules.cava.leftClick": "menu:media",
+  "bar.customModules.hyprsunset.label": false,
+  "bar.customModules.hyprsunset.temperature": "2000k",
+  "bar.customModules.cpuTemp.sensor": "/sys/devices/pci0000:00/0000:00:18.3/hwmon/hwmon2/temp1_input",
+  "bar.customModules.cpuTemp.leftClick": "kitty btop",
+  "bar.customModules.cpu.leftClick": "kitty btop",
+  "bar.customModules.ram.leftClick": "kitty btop",
+  "bar.customModules.updates.leftClick": "gnome-software",
+  "bar.workspaces.showWsIcons": true,
+  "bar.clock.format": "%a %b %d  %T ",
+  "bar.bluetooth.label": false,
+  "menus.clock.weather.enabled": false,
+  "menus.dashboard.controls.enabled": false,
+  "menus.dashboard.shortcuts.left.shortcut2.command": " com.spotify.Client",
+  "menus.dashboard.shortcuts.left.shortcut1.command": "zen-browser",
+  "menus.dashboard.shortcuts.left.shortcut1.tooltip": "zen",
+  "menus.dashboard.shortcuts.left.shortcut1.icon": "",
+  "menus.dashboard.shortcuts.left.shortcut3.command": "vesktop",
+  "menus.dashboard.directories.left.directory3.command": "bash -c \"xdg-open $HOME/Music/\"",
+  "menus.dashboard.directories.left.directory3.label": "󰚝 Music",
+  "menus.dashboard.powermenu.avatar.image": "/home/m/Pictures/fastfetch/Caco-chan_emoji_new.png",
+  "theme.bar.outer_spacing": "0em",
+  "theme.bar.margin_top": "0em",
+  "theme.bar.margin_bottom": "0em",
+  "theme.bar.transparent": true,
+  "theme.bar.floating": true,
+  "theme.bar.buttons.style": "split",
+  "theme.bar.menus.card_radius": "0.4em",
+  "theme.bar.menus.border.radius": "0.7em",
+  "theme.bar.menus.popover.radius": "1em",
+  "theme.bar.menus.buttons.radius": "0.4em",
+  "theme.bar.border_radius": "1.4em",
+  "theme.bar.buttons.radius": "1rem",
+  "theme.osd.radius": "2em",
+  "wallpaper.image": "/home/m/Pictures/Wall/wallhaven-7pqmvy.png",
+  "wallpaper.enable": true,
+  "theme.matugen": true,
+  "theme.matugen_settings.scheme_type": "neutral",
+  "theme.matugen_settings.variation": "standard_1",
+  "theme.matugen_settings.mode": "dark",
+  "bar.customModules.ram.labelType": "percentage",
+  "notifications.position": "top left",
+  "hyprpanel.restartAgs": true,
+  "bar.customModules.storage.paths": [
+    "/"
+  ]
+}

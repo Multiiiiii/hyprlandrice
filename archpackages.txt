@@ -1,4 +1,5 @@
 autojump
+ags-hyprpanel-git
 btop
 bat
 cava

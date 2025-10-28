@@ -18,4 +18,5 @@ nemo
 nemo-fileroller
 rofi
 rofi-calc
+swww
 yt-dlp

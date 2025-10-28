@@ -13,6 +13,7 @@ hyprpicker
 hyprpolkitagent
 hyprsunset
 kitty
+matugen-bin
 nemo
 nemo-fileroller
 rofi

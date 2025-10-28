@@ -13,6 +13,8 @@ hyprpicker
 hyprpolkitagent
 hyprsunset
 kitty
+nemo
+nemo-fileroller
 rofi
 rofi-calc
 yt-dlp
